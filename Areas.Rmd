@@ -35,3 +35,11 @@ largo<-3
 corto<-2
 AreaRectangulo<-2*3
 ```
+
+## área del trapecio
+```{r}
+B<-3
+b<-2
+h<-5
+areatrapecio<-(b+B)*h/2
+```
