@@ -21,3 +21,13 @@ Area<-pi*r^2
 Lado<-3
 AreaCuadrado<-Lado^2
 ```
+
+## área triangulo
+```{r}
+lado<-2
+Areatriangulo<-lado^2/2
+```
+
+
+
+```
