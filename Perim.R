@@ -7,5 +7,5 @@ LongitudCircunferencia(r){
 }
 
 Perimetrorectangulo(largo,corto){
-  return(2*largo+2*corto)
+  return((largo+corto)*2)
 }
