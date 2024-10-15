@@ -29,5 +29,9 @@ Areatriangulo<-lado^2/2
 ```
 
 
-
+## área rectángulo
+```{r}
+largo<-3
+corto<-2
+AreaRectangulo<-2*3
 ```
